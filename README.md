@@ -21,7 +21,7 @@ This will force the file to use the specified syntax highlighter. This is case s
 tag is not present, the file extension will be used to decide what type of highlighting to use. The extension mapping is as follows:
 
     HLSL syntax highlighter - .fx, .fxh, .hlsl, .vsh, .psh, .fsh
-    GLSL syntax highlighter - .glsl, .frag, .vert, .fp, .vp, .geom
+    GLSL syntax highlighter - .glsl, .frag, .vert, .fp, .vp, .geom, .comp, .tese, .tesc, .fp, .vp, .gp, .cp, .tep, .tcp
     CG syntax highlighter - .cg, .cgfx
     Unity syntax highlighter - .shader, .cginc, .compute
 
