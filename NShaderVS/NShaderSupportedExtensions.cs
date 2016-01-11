@@ -44,6 +44,9 @@ namespace NShader
         public const string GLSL_TCP = ".tcp";
         public const string GLSL_TEP = ".tep";
         public const string GLSL_CP = ".cp";
+        public const string GLSL_COMP = ".comp";
+        public const string GLSL_TESE = ".tese";
+        public const string GLSL_TESC = ".tesc";
 
         // CG file extensions
         public const string CG_CG = ".cg";
