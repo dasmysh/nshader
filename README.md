@@ -1,6 +1,6 @@
 ## NShader
 
-This is a fork of Issam Khalil's Visual Studio 2013 fork of Alexandre Mutel's NShader syntax highlighting Visual Studio extension for shader languages.
+This is a fork of Sam Izzo's fork of Issam Khalil's Visual Studio 2013 fork of Alexandre Mutel's NShader syntax highlighting Visual Studio extension for shader languages.
 I've cloned it into my own github repository as I prefer to use github rather than CodePlex. The original nshader project is available here:
 
 https://nshader.codeplex.com/
